@@ -13,8 +13,19 @@ public class Cart {
     }
 
     public Cart add(GroceryCartItem item) {
+        if(cartItems.contains(item)) {
+            GroceryCartItem previousItem = cartItems.get(cartItems.indexOf(item));
+            totalAmount -= previousItem.price;
+            cartItems.remove(previousItem);
+        }
         cartItems.add(item);
         totalAmount += item.price;
+        return this;
+    }
+
+    public Cart removeItem(GroceryCartItem item) {
+        totalAmount -= item.price;
+        cartItems.remove(item);
         return this;
     }
 
