@@ -13,9 +13,9 @@ public class Menu {
 
     public void show() throws Exception {
 
-        do {
+        showPlacesFromFile();
 
-            showPlacesFromFile();
+        do {
 
             int choice = showMenuAndGetChoice();
             switch (choice) {
@@ -40,9 +40,9 @@ public class Menu {
                     break;
             }
 
-            saveToFile();
-//            showPlaces();
+            showPlaces();
             if (wantToExit()) {
+                saveToFile();
                 break;
             }
 
