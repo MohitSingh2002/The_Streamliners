@@ -5,5 +5,7 @@
 * [JustJava](https://github.com/MohitSinghFlutter/JustJava)
 * [ScoreKeeper](https://github.com/MohitSinghFlutter/ScoreKeeper)
 * [MultiplicationTable](https://github.com/MohitSinghFlutter/MultiplicationTable)
+* [TwoActivities](https://github.com/MohitSinghFlutter/TwoActivities)
+* [HelloSharedPrefs](https://github.com/MohitSinghFlutter/HelloSharedPrefs)
 
 **Stay tuned for more :)**<br>
