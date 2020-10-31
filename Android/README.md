@@ -7,5 +7,7 @@
 * [MultiplicationTable](https://github.com/MohitSinghFlutter/MultiplicationTable)
 * [TwoActivities](https://github.com/MohitSinghFlutter/TwoActivities)
 * [HelloSharedPrefs](https://github.com/MohitSinghFlutter/HelloSharedPrefs)
+* [JavaListView](https://github.com/MohitSinghFlutter/JavaListView)
+* [JavaRecyclerView](https://github.com/MohitSinghFlutter/JavaRecyclerView)
 
 **Stay tuned for more :)**<br>
