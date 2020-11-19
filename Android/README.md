@@ -11,5 +11,6 @@
 * [JavaRecyclerView](https://github.com/MohitSinghFlutter/JavaRecyclerView)
 * [ExcelNumberPicker](https://github.com/MohitSinghFlutter/ExcelNumberPicker)
 * [ProductAdder](https://github.com/MohitSinghFlutter/ProductAdder)
+* [UserApp](https://github.com/MohitSinghFlutter/UserApp)
 
 **Stay tuned for more :)**<br>
