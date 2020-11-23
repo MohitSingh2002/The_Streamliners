@@ -12,5 +12,6 @@
 * [ExcelNumberPicker](https://github.com/MohitSinghFlutter/ExcelNumberPicker)
 * [ProductAdder](https://github.com/MohitSinghFlutter/ProductAdder)
 * [UserApp](https://github.com/MohitSinghFlutter/UserApp)
+* [PracticeFirebase](https://github.com/MohitSinghFlutter/PracticeFirebase)
 
 **Stay tuned for more :)**<br>
