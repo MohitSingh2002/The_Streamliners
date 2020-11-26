@@ -13,5 +13,6 @@
 * [ProductAdder](https://github.com/MohitSinghFlutter/ProductAdder)
 * [UserApp](https://github.com/MohitSinghFlutter/UserApp)
 * [PracticeFirebase](https://github.com/MohitSinghFlutter/PracticeFirebase)
+* [FireAuthPractice](https://github.com/MohitSinghFlutter/FireAuthPractice)
 
 **Stay tuned for more :)**<br>
